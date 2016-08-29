@@ -1,0 +1,80 @@
+---
+title: "Jose Raul Zacatelco Guizar Tarea 1"
+author: "Jose Raul Zacatelco Guizar"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+# Historial Academico
+## Nombre: Jose Raul Zacatelco Guizar 
+### Matricula: 201412854
+
+#### *Perido Otoño 2014*
+
+  *Programacion Actuarial I	05	
+
+  *Intr a la Profesion Actuarial	05	
+ 	 
+  *DHPC	09	
+
+  *Conceptos de Calculo	08	
+
+  *Matematicas Basicas	09	
+
+  *Problemas de Mat. Basicas	09
+
+#### *Periodo Primavera 2015*
+
+  *Teoria del Interes I	07	
+
+  *Microeconomia	10	
+
+  *Lengua Extranjera I	08	
+
+  *Calculo Diferencial	08	
+
+  *Geometria Analitica	10	
+
+  *Teoria de Ecuaciones	08
+
+#### *Periodo Otoño 2015*
+
+  *Programacion Actuarial I	09	
+
+  *Teoria del Interes II	09	
+
+  *Intr a la Profesion Actuarial	06	
+
+  *Macroeconomia	07	
+
+  *Calculo Integral	08	
+
+  *Algebra Lineal I	05	
+
+#### *Periodo Primavera 2016*
+
+  *Programacion Actuarial II	09	
+
+  *Sistema Financiero Mexicano	09
+
+  *DHTIC	10	
+
+  *Cal. Difer. en Var. Variables	05	
+
+  *Algebra Lineal I	10	
+
+  *Probabilidad I	05
+  
+#### *Periodo Otoño 2016*
+
+  *Programación Actuarial III	
+
+  *Derivados Financieros	
+
+  *Cálculo Diferencial en Varias Variables	
+
+  *Ecuaciones Diferenciales I	
+
+  *Introducción a las Estructuras Algebraicas	
+
+  *Probabilidad I
