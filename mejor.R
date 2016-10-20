@@ -1,7 +1,7 @@
 setwd("~/GitHub/Programacion_Actuarial_III_OT2016")
 mejor <- function(estado,resultado){
   base <- read.csv("outcome-of-care-measures.csv", colClasses = "character")
-  base <- data.frame(base[2],base[7],base[13],base[19],base[25])
+  base <- data.frame(base[2],base[7],base[11],base[17],base[23])
 
   if (resultado == "ataque"){
     base1 <- data.frame(base[1],base[2],base[3])
